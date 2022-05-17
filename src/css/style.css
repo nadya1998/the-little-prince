@@ -1,0 +1,18 @@
+body {
+    background-color: rgba(255, 186, 154, 0.562);
+}
+
+.red {
+    color:brown;
+    text-align: center;
+}
+
+.leon {
+    text-transform: uppercase;
+    font-weight:400;
+    font-size:medium;
+} 
+
+.italic {
+    font-style:italic;
+}
